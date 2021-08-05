@@ -13,7 +13,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Lalit Kumar',
-  subtitle: 'Web Developer and Android App Developer',
+  subtitle: 'Software Developer',
   subtitle2: 'Android App Developer',
   cta: '',
 };
