@@ -35,7 +35,7 @@ export const projectsData = [{
     info: 'A simple website where user can book train tickets, implemented functionalities like cancelling, verifying ticket.Implemented authentication through passport js.',
     info2: 'Tech. Used : Mongodb, NodeJs,HTML,CSS,JS,ExpressJs,Mongoose',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Lalit-Kumar20/Online-Railway-Ticket-Booking', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -44,7 +44,7 @@ export const projectsData = [{
     info: 'A simple e-commerce website where user can buy hand made products.',
     info2: 'Tech. Used : Mongodb, NodeJs,HTML,CSS,JS,ExpressJs,Mongoose',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Lalit-Kumar20/E-Commerce', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
